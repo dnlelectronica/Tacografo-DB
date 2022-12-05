@@ -13,7 +13,7 @@ namespace Tacografo_DB
         
         const string SMTP_SERVER = "";
         const string USERNAME = "";
-        const string PASSWORD = ""; //ES SOLO PARA TESTEO. NO GUARDAR LA CONTRASEÑA DE ESTA MANERA!
+        const string PASSWORD = ""; //AHH, ESTE NIVEL DE SEGURIDAD SÍ SE PUEDE VER!!!
 
         const string FROM = "";
         const string TO = "";
